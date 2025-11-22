@@ -11,16 +11,12 @@
 
 - ✅ **Validation**  
   - Checks if the input is valid JSON and shows clear success / error messages.
-
 - 🎨 **Pretty Formatting**  
   - Formats valid JSON with indentation for easier reading.
-
 - 📦 **Minify**  
   - Converts JSON into a compact single-line format for usage in configs, env vars, etc.
-
 - 📋 **Copy Output**  
   - One-click copy of the formatted / minified JSON to your clipboard.
-
 - 🔐 **Privacy-friendly**  
   - All logic runs in the browser using JavaScript.  
     No data is sent to any server.
