@@ -5,8 +5,6 @@
 
 > 💡 No backend, no tracking – your JSON never leaves the page.
 
----
-
 ## ✨ Features
 
 - ✅ **Validation**  
@@ -20,8 +18,6 @@
 - 🔐 **Privacy-friendly**  
   - All logic runs in the browser using JavaScript.  
     No data is sent to any server.
-
----
 
 ## 🧱 Tech Stack
 
