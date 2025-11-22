@@ -3,7 +3,9 @@
 - A client-side web tool to **validate**, **format (pretty-print)**, and **minify** JSON.  
 - Built with plain **HTML + CSS + JavaScript** and designed to run entirely in the browser.
 
+
 > 💡 No backend, no tracking – your JSON never leaves the page.
+
 
 ## ✨ Features
 
@@ -25,15 +27,14 @@
 - CSS3 (responsive, card-style layout)
 - Vanilla JavaScript (no frameworks)
 
----
-
 ## 📁 Project Structure
 
-```text
+```
 .
 ├── index.html   # Main page markup
 ├── style.css    # Styling for layout & components
 └── script.js    # JSON parsing, validation, formatting, minifying, copy logic
+```
 
 📝 Usage
 
