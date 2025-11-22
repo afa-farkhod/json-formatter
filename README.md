@@ -36,28 +36,22 @@
 └── script.js    # JSON parsing, validation, formatting, minifying, copy logic
 ```
 
-📝 Usage
+📝 Usage:
 
-Paste raw JSON into the Input panel.
+- Paste raw JSON into the Input panel.
+- Click Format & Validate:
+   - If valid, you’ll see pretty-printed JSON in the Output panel and a “Valid JSON ✔” status.
+   - If invalid, you’ll see an error message with details.
+- Click Minify to generate a compact version.
+- Click Copy Output to copy the result to your clipboard.
 
-Click Format & Validate:
+-----
 
-If valid, you’ll see pretty-printed JSON in the Output panel and a “Valid JSON ✔” status.
+💡 Ideas for Future Improvements:
 
-If invalid, you’ll see an error message with details.
-
-Click Minify to generate a compact version.
-
-Click Copy Output to copy the result to your clipboard.
-
-💡 Ideas for Future Improvements
-
-Support for JSON → YAML conversion.
-
-Theme toggle (light / dark).
-
-Basic lint rules (e.g., enforcing double quotes, key ordering).
-
-Offline PWA support.
+- Support for JSON → YAML conversion.
+- Theme toggle (light / dark).
+- Basic lint rules (e.g., enforcing double quotes, key ordering).
+- Offline PWA support.
 
 Feel free to open issues or PRs with suggestions and improvements!
