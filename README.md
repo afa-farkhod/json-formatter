@@ -45,7 +45,7 @@
 - Click Minify to generate a compact version.
 - Click Copy Output to copy the result to your clipboard.
 
-<img width="991" height="536" alt="image" src="https://github.com/user-attachments/assets/b1c39a90-0fe6-490d-8247-a335e91ad70c" />
+<img width="977" height="529" alt="image" src="https://github.com/user-attachments/assets/f96506c3-ae37-4337-8a28-6fe668322d92" />
 
 -----
 
